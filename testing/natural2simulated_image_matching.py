@@ -8,7 +8,7 @@ import json_pkl
 
 '''
 Test the acurracyt of the images generated in the Im2Sim2Im_from_image_2_code_2_im.py
-By matching them to the original real image in multi choice test (see figure or paper) using either human or vlm
+By matching them to the original real image in multi choice test using either human or vlm (see figure (Image_Matching_Scheme.jpg) or paper) 
 
 '''
 
