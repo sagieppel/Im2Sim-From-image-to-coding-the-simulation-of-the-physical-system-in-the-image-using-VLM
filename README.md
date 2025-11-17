@@ -62,7 +62,7 @@ In the script  **__main__** section set input parameters:
 
 ​
 
-**real_im_dir** = Input folder containing photos of real world phenomena the AI will look at this image and will try to identify  system that formed it and write a simulation of this system. Reference folder is supplied at **"sample_images"**
+**real_im_dir** = Input folder containing photos of real world phenomena. The AI/VLM will look at this image and will try to identify  system that formed it and write a simulation of this system. Reference folder is supplied at **"sample_images"**
 
 ​
 
