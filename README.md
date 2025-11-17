@@ -16,7 +16,7 @@ More details on the method can be found in the document:
 
 ​
 
-​![Some examples of the results, top real photo, bottom image that was generated  by the simulation of the system in the real photo](/Result.jpg)
+​![Some examples of the results, top real photo, bottom image that was generated  by the simulation of the system in the real photo](/Results.jpg)
 
 ​
 
