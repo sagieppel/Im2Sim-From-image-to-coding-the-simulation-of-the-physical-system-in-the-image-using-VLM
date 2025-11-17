@@ -1,7 +1,7 @@
 # Im2Sim: Inferring and coding simulations of physical systems from  photographs of visual phenomena
 
 This code use VLMS (GPT/Qwen/Gemini…) to look at real images of visual patterns (clouds, waves, city) , identify the model of the physical system beyond the pattern, write it as code, and run this code to generate a simulated image of the pattern. Basically, identify the physical/biological/chemical/social system beyond the structure that appears in the image. Write a simulation/model of these systems (as python code) and run this code to generate simulated  images.
-More details on the method can be found in the document:[SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art](https://arxiv.org/pdf/2511.01817) 
+More details on the method can be found in the document: [SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art](https://arxiv.org/pdf/2511.01817) 
 
 
 ​![](/Scheme.jpg)
