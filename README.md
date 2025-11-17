@@ -54,4 +54,9 @@ The script used to simulate the system and generate the images will appear at:
 ​![](/Results.jpg)
 <small>__Some examples of the results, top real photo, bottom image that was generated  by the simulation of the system in the real photo__</small>
 
+
+## Testing generated models accuracy
+Testing general model accuracy by matching the real image and the generated image to each other in multiple-choice test can be done using the script in testing/natural2simulated_image_matching.py
+For more details, see the paper.
+
 ​
