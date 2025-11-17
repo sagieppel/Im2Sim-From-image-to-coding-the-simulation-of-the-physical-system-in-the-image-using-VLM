@@ -12,12 +12,13 @@ More details on the method can be found in the document:
 
 ​
 
-​![Scheme of the Im2Sim2Im pipeline, the VLM receive an image and asks to identify the process/system in the image and write a simulation of this system, it then run the code to generate a simulated image.](/Scheme.jpg)
+​![](/Scheme.jpg)
+<small>__Scheme of the Im2Sim2Im pipeline, the VLM receive an image and asks to identify the process/system in the image and write a simulation of this system, it then run the code to generate a simulated image.__</small>
 
 ​
 
 ​![](/Results.jpg)
-__Figure 2: Some examples of the results, top real photo, bottom image that was generated  by the simulation of the system in the real photo__
+<small>Some examples of the results, top real photo, bottom image that was generated  by the simulation of the system in the real photo__</small>
 
 ​
 
