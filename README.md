@@ -33,6 +33,8 @@ In the script  **__main__** section set input parameters:
 
 **main_outdir** = The path to the output folder where the simulation code and images will be saved. THIS has to be inside the code folder, and the path MUST be given as a relative path to the code folder (this folder will contain some of the generated scripts, which will be imported into the code in real time and run).
 
+Note that the code should run as is with the sample input/output folder without any a changes (accept adding api key).
+
 *** The script will generate code fsimulation, and will run it without asking for permission; it will also install packages using pip without asking permission.***​
 
 ### Output structure:
