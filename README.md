@@ -7,12 +7,7 @@ More details on the method can be found in the document:[SciTextures: Collecting
 ​![](/Scheme.jpg)
 <small>__Scheme of the Im2Sim2Im pipeline, the VLM receive an image and asks to identify the process/system in the image and write a simulation of this system, it then run the code to generate a simulated image.__</small>
 
-​
 
-​![](/Results.jpg)
-<small>__Some examples of the results, top real photo, bottom image that was generated  by the simulation of the system in the real photo__</small>
-
-​
 
 # How to use:
 
@@ -51,3 +46,10 @@ The script used to simulate the system and generate the images will appear at:
 **“generate.py“**  in the model dir.
 
 ”description” file will contain a description of the  model/simulation.
+
+​
+
+​![](/Results.jpg)
+<small>__Some examples of the results, top real photo, bottom image that was generated  by the simulation of the system in the real photo__</small>
+
+​
