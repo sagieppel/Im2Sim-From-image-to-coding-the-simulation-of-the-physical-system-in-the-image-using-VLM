@@ -64,7 +64,7 @@ For more details, see the paper.
 
 [Sampled natural images that were used as input for the script](https://drive.google.com/drive/folders/1iNywku9Om4mYR9RnBVarUQd4fSBjJ2-V?usp=sharing)
 
-[Example responses from various of models](https://drive.google.com/drive/folders/1iNywku9Om4mYR9RnBVarUQd4fSBjJ2-V?usp=sharin](https://drive.google.com/drive/folders/19Sfib1XAfaJYhYysVASup9cvxWHAQn_u?usp=sharing)
+[Example responses from various of models](https://drive.google.com/drive/folders/19Sfib1XAfaJYhYysVASup9cvxWHAQn_u?usp=sharing)
 
 
 ​
