@@ -2,12 +2,12 @@
 
 This code use VLMS (GPT/Qwen/Gemini…) to look at real images of visual patterns (clouds, waves, city) , identify the model of the physical system beyond the pattern, write it as a generative code, and run this code to generate a simulated image of the pattern. Basically, identify the physical/biological/chemical/social system beyond the structure that appears in the image. Write a simulation/model of these systems (as python code) and run this code to generate simulated  images.
 More details on the method can be found in the document: [SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art](https://arxiv.org/pdf/2511.01817) 
-
+For simplified version of this code (with guide) [see this repo](https://github.com/sagieppel/Building-autonomous-AI-agent-artist-that-can-see-write-generative-code-paint-and-imitate-images) 
 
 ​![](/Scheme.jpg)
 <small>__Scheme of the Im2Sim2Im pipeline, the VLM receive an image and asks to identify the process/system in the image and write a simulation of this system, it then run the code to generate a simulated image.__</small>
 
-For simplified version of this code (with guide) [see this repo](https://github.com/sagieppel/Building-autonomous-AI-agent-artist-that-can-see-write-generative-code-paint-and-imitate-images) 
+
 
 # How to use:
 
