@@ -4,7 +4,9 @@ This code use VLMS (GPT/Qwen/Gemini…) to look at real images of visual pattern
 More details on the method can be found in the document: [SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art](https://arxiv.org/pdf/2511.01817).
 
 
-This code have to version one simple with everything contained in one file and other more advanced the more advanced version was used in the paper but the simple one is much easier to use and understand.
+This code have to versions: one simple with everything contained in one file and a second more advanced. The more advanced version was used in the paper Im2Sim, but the simple one is much easier to use and understand and faster in generating images.
+
+
 
 ​![](/Scheme.jpg)
 <small>__Scheme of the Im2Sim2Im pipeline, the VLM receive an image and asks to identify the process/system in the image and write a simulation of this system, it then run the code to generate a simulated image.__</small>
