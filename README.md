@@ -7,7 +7,7 @@ More details on the method can be found in the document: [SciTextures: Collectin
 ​![](/Scheme.jpg)
 <small>__Scheme of the Im2Sim2Im pipeline, the VLM receive an image and asks to identify the process/system in the image and write a simulation of this system, it then run the code to generate a simulated image.__</small>
 
-
+For simplified version of this code (with guide) [see this repo(https://github.com/sagieppel/Building-autonomous-AI-agent-artist-that-can-see-write-generative-code-paint-and-imitate-images) 
 
 # How to use:
 
