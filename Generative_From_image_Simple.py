@@ -4,7 +4,7 @@ import base64, requests
 from pathlib import Path
 import json
 import os
-API_key = "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"
+API_key = ""
 InDir="/media/deadcrow/6TB/python_project/Im2Sim2Im_GIT/pixabay_downloads//"
 OutDir="/media/deadcrow/6TB/python_project/Im2Sim2Im_GIT/Generate_pixabay//"
 model="google/gemini-3-flash-preview"
