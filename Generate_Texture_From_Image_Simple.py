@@ -5,7 +5,7 @@ from pathlib import Path
 import json
 import os
 API_key = ""
-InDir="pixabay_texture//"#//home/deadcrow/Downloads/Extracted_textures_small/texture_large//" #"pixabay_texture//"#
+InDir="sample_images//"
 OutDir="/media/deadcrow/6TB/python_project/Im2Sim2Im_GIT/Generate_vastexture//"
 
 
