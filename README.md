@@ -4,14 +4,22 @@ This code use VLMS (GPT/Qwen/Gemini…) to look at real images of visual pattern
 More details on the method can be found in the document: [SciTextures: Collecting and Connecting Visual Patterns, Models, and Code Across Science and Art](https://arxiv.org/pdf/2511.01817).
 
 
-For significantly simplified version of this code (with guide) [see this repo](https://github.com/sagieppel/Building-autonomous-AI-agent-artist-that-can-see-write-generative-code-paint-and-imitate-images) 
+This code have to version one simple with everything contained in one file and other more advanced the more advanced version was used in the paper but the simple one is much easier to use and understand.
 
 ​![](/Scheme.jpg)
 <small>__Scheme of the Im2Sim2Im pipeline, the VLM receive an image and asks to identify the process/system in the image and write a simulation of this system, it then run the code to generate a simulated image.__</small>
+# How to use simple version (
+## Use Generate_Texture_From_Image_Simple.py for generating texture from referance texture image or  Generative_From_image_Simple.py for replicating any image 
 
 
+1. Purchase tokens and get an API key  from [openrouter](https://openrouter.ai/docs/api/reference/authentication) (Basically universal api for all major LLMs)
 
-# How to use:
+2. Set the api key in API_KEY
+3. Set folder of input images in InDir (this will be use as reference for the generated images)
+4. Set output folder where the generative code will be saved
+5. You can update the model at model paramater from the [list of models availble at open router](https://openrouter.ai/models) (note that it most be vision capable model)
+
+# How to use advance version:
 
 ## 1. Update your preferred API key at API_KEYS.py.  
 
