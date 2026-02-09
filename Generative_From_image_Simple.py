@@ -5,8 +5,8 @@ from pathlib import Path
 import json
 import os
 API_key = ""
-InDir="/media/deadcrow/6TB/python_project/Im2Sim2Im_GIT/pixabay_downloads//"
-OutDir="/media/deadcrow/6TB/python_project/Im2Sim2Im_GIT/Generate_pixabay//"
+InDir = "sample_images//"
+OutDir="out_img_dir//"
 model="google/gemini-3-flash-preview"
 
 ##############################################################################################
