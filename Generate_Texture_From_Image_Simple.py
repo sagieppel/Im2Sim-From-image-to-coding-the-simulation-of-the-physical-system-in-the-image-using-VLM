@@ -6,7 +6,7 @@ import json
 import os
 API_key = ""
 InDir="sample_images//"
-OutDir="/media/deadcrow/6TB/python_project/Im2Sim2Im_GIT/Generate_vastexture//"
+OutDir="out_img_dir//"
 
 
 
